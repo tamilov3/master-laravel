@@ -10,6 +10,7 @@ class CreatePasswordResetsTable extends Migration
      * Run the migrations.
      *
      * novi komentar za migracije
+     * komentar iz grane nova-grana
      * @return void
      */
     public function up()
